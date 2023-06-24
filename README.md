@@ -6,8 +6,8 @@
 ---
 
 ### My Interests 
-- I'm interested in backend development using Python and Flask
-- Currently learning about database systems, SQL and NoSQL databases
+- I'm interested in backend development using technologies like Node, Express and Flask.
+- Currently learning about database systems, SQL, and NoSQL databases
 - Also interested in quantitative finance and have developed an [application](https://github.com/HarshitNTiwari/Portfolio-Optimizer) relating to the same
 - Learning Data Structures and Algorithms : [Leetcode](https://leetcode.com/HarshitNTiwari/)
 

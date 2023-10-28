@@ -1,3 +1,13 @@
+<p align="center">
+  <samp>
+    <a href="https://harshitntiwari.bearblog.com/">website</a> • 
+    <a href="mailto:harshitntiwari@protonmail.com">email</a> • 
+    <a href="https://www.twitter.com/harshitntiwari/">twitter</a> • 
+    <a href="https://www.linkedin.com/in/harshitntiwari">linkedin</a>
+  </samp>
+</p>
+
+<!---
 ### About me
 - 👋 Hi, I’m Harshit Tiwari
 - 🎓 Currently an Engineering Undergrad at The LNM Institute of Information Technology, Jaipur
@@ -32,6 +42,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+--->
 
 <!---
 HarshitNTiwari/HarshitNTiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

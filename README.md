@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://harshitntiwari.bearblog.com/">website</a> • 
+    <a href="https://harshitntiwari.github.io/">website</a> • 
     <a href="mailto:harshitntiwari@protonmail.com">email</a> • 
     <a href="https://www.twitter.com/harshitntiwari/">twitter</a> • 
     <a href="https://www.linkedin.com/in/harshitntiwari">linkedin</a>
